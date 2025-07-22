@@ -6,7 +6,7 @@ import re
 import time
 import random
 import logging
-from typing import Optional, Dict, List, Union
+from typing import Optional, Dict, List
 from urllib.parse import urlparse
 import os
 from dataclasses import dataclass
